@@ -1,5 +1,7 @@
-# Goldbergs House
+This is the code for a game I created with a friend for the [Logipaignion 2018](https://logipaignion.org.cy/2018/en/) competition, achieving [2nd place](https://iportal.cytanet.com.cy/ENTERTAINMENT/Games/game-L2.html). 
 
-This is the code for a game I created with a friend for the Logipaignion 2018 competition, achieving 2nd place. It can be downloaded [here](https://iportal.cytanet.com.cy/ENTERTAINMENT/Games/game-L2.html).
+Direct download link for the game is [here](https://iportal.cytanet.com.cy/ENTERTAINMENT/Games/zip/L2.zip).
+
+![Gif of game](https://media.giphy.com/media/ZCHxh6VrRclGbzkQ0a/giphy.gif)
 
 I was responsible for all of the programming and wrote this in 2018.
